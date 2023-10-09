@@ -1,0 +1,20 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+}
+h1, p {
+    text-align: center;
+}
+div {
+    top: 50px;
+    width: 80vw;
+    height: 80vh;
+    position: relative;
+}
+
+button {
+    position: absolute;
+    left: 50%;
+    top: 50%
+}
